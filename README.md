@@ -4,7 +4,7 @@
 >## Data Gathering
 >Step one is taking dataset from any one source that is Kaggle,UCI etc
 >## Data Cleaning
->Next step is to clean the data.Here I found many null Columns which I droped,Renamed the import columns and deleted the duplicated values.
+>Next step is to clean the data.Here I found many null Columns which I dropped,Renamed the  columns and deleted the duplicated values.
 >### EDA
 >Now we perform EDA so we get deeper understanding and relation between the attributes. We use **Matplotlib** library here for visualisations
 >## Data Pre Processing
